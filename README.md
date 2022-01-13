@@ -15,7 +15,7 @@ You can request Reference Data, Historical Data and for those with an AIM subscr
     Done Installing!
 
 # WHERE TO FIND FIELDS
-    The Fields relating tot he data you are looking for can be found form your terminal.
+    The Fields relating to the data you are looking for can be found form your terminal.
     1. Go to a ticker you are interested in
     2. Type the function FLDS in your terminal
     3. Search the information you are looking for
